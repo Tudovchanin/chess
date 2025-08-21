@@ -1,6 +1,6 @@
 # Лендинг для шахматного турнира  
 
-[Demo] https://tudovchanin.github.io/chess/  
+[Demo] (https://tudovchanin.github.io/chess/)  
 
 
 
