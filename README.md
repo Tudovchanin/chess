@@ -1,7 +1,7 @@
-# chess
-
 # Лендинг для шахматного турнира  
 
-git
+[Demo] https://tudovchanin.github.io/chess/  
+
+
 
 
