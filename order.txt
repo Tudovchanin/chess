@@ -1,0 +1,73 @@
+[
+  "position",
+  "content", 
+  "top",
+  "right",
+  "bottom",
+  "left",
+  "z-index",
+
+  "display",
+  "flex-direction",
+  "flex-wrap",
+  "justify-content",
+  "align-items",
+  "gap",
+  "float",
+  "clear",
+  "width",
+  "min-width",
+  "max-width",
+  "height",
+  "min-height",
+  "max-height",
+  "box-sizing",
+
+  "margin",
+  "margin-top",
+  "margin-right",
+  "margin-bottom",
+  "margin-left",
+
+  "padding",
+  "padding-top",
+  "padding-right",
+  "padding-bottom",
+  "padding-left",
+
+  "color"
+  "font",
+  "font-style",
+  "font-size",
+  "font-weight",
+  "font-family",
+  "line-height",
+  "text-align",
+  "text-transform",
+  "text-decoration",
+
+  "background",
+  "background-color",
+  "background-image",
+  "background-repeat",
+  "background-position",
+  "background-size",
+  "mask-image",
+
+  "border",
+  "border-radius",
+  "outline",
+
+  "opacity",
+  "visibility",
+  "filter",
+  "backdrop-filter",
+  "cursor",
+
+  "transform",
+  "transition",
+  "animation",
+
+  "overflow",
+  "will-change"
+]
